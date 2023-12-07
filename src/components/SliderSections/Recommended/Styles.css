@@ -1,0 +1,5 @@
+@media (max-width: 360px) {
+  .Slider-swiper {
+    margin-bottom: -0px; /* Adjust this value as needed */
+  }
+}
